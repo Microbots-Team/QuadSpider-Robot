@@ -1,8 +1,15 @@
 # 🕷️ QuadSpider Robot
-A mobile four-legged robot powered by **ESP32** and controlled through a custom mobile app.  
-Each of its four legs uses a dual-servo configuration, giving the robot the agility to walk, turn, and even perform predefined movement sequences—small choreographies triggered at the tap of a button.
+
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
 
 ---
+
+
 
 ## 💡 Project Overview
 **QuadSpider** is a compact four-legged robotic creature designed to explore app-based motion control.  
@@ -10,7 +17,11 @@ Using eight servos, an ESP32, and a mobile app, the robot can:
 
 - Walk forward or backward  
 - Turn left or right  
-- Execute preset movement sequences 
+- Execute preset movement sequences
+
+ 
+Each of its four legs uses a dual-servo configuration, giving the robot the agility to walk, turn, and even perform predefined movement sequences—small choreographies triggered at the tap of a button.
+
 
 The goal is to blend lightweight hardware with wireless mobile control, creating an accessible platform for learning robotics, gait generation, and ESP32 IoT communication.
 
